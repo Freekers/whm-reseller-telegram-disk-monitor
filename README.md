@@ -24,8 +24,8 @@ This PHP script monitors the disk usage of cPanel accounts under a WHM reseller,
 1.  **Clone the repository or download the script:**
 
     ```bash
-    git clone https://github.com/your-username/whm-disk-monitor.git
-    cd whm-disk-monitor
+    git clone https://github.com/Freekers/whm-reseller-telegram-disk-monitor.git
+    cd wwhm-reseller-telegram-disk-monitor
     ```
 
 2.  **Configure the script (`disk_usage_monitor.php`):**
